@@ -1,0 +1,46 @@
+{
+  "Portugal": {
+    "Lisbon": {
+      "January": { "high": 57, "low": 46 },
+      "February": { "high": 60, "low": 47 },
+      "March": { "high": 64, "low": 51 },
+      "April": { "high": 67, "low": 54 },
+      "May": { "high": 71, "low": 58 },
+      "June": { "high": 77, "low": 63 },
+      "July": { "high": 81, "low": 66 },  
+      "August": { "high": 81, "low": 66 },
+      "September": { "high": 77, "low": 63 },
+      "October": { "high": 71, "low": 58 },
+      "November": { "high": 64, "low": 53 },
+      "December": { "high": 58, "low": 48 }
+    },
+    "Porto": {
+      "January": { "high": 55, "low": 45 },
+      "February": { "high": 58, "low": 46 },
+      "March": { "high": 61, "low": 49 },
+      "April": { "high": 65, "low": 52 },
+      "May": { "high": 69, "low": 56 },
+      "June": { "high": 73, "low": 60 },
+      "July": { "high": 77, "low": 63 },
+      "August": { "high": 77, "low": 63 },  
+      "September": { "high": 73, "low": 60 },
+      "October": { "high": 67, "low": 56 },
+      "November": { "high": 61, "low": 51 },
+      "December": { "high": 56, "low": 46 }
+    },
+    "Braga": {
+      "January": { "high": 55, "low": 43 },
+      "February": { "high": 58, "low": 45 },  
+      "March": { "high": 63, "low": 48 },
+      "April": { "high": 67, "low": 51 },
+      "May": { "high": 71, "low": 55 },
+      "June": { "high": 76, "low": 60 },
+      "July": { "high": 80, "low": 64 },
+      "August": { "high": 80, "low": 64 },
+      "September": { "high": 75, "low": 60 },
+      "October": { "high": 69, "low": 55 },
+      "November": { "high": 62, "low": 49 },
+      "December": { "high": 57, "low": 45 }
+    }
+  }
+}
