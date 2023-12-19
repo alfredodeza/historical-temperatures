@@ -42,3 +42,14 @@ Use `uvicorn` to start the API
 ```
 uvicorn --host 0.0.0.0 webapp.main:app
 ```
+
+Inspect the running API at [http://0.0.0.0:8000](http://0.0.0.0:8000) after you
+see the following output:
+
+```
+$ uvicorn --host 0.0.0.0 webapp.main:app
+INFO:     Started server process [37770]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+```
